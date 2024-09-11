@@ -17,4 +17,4 @@ You may also see any lint errors in the console.
 
 ### Project
 
-![screan](./my-app/src/screan.png)
+![screan](./my-app/src/img.png)
