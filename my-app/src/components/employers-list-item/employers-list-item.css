@@ -1,6 +1,6 @@
 .list-group-item {
   padding: 15px 20px;
-  border-bottom: 1px solid #3d5a80;
+  border-bottom: 1px solid #1843c4;
 }
 
 .list-group-item:last-child {
@@ -61,5 +61,5 @@
 }
 
 .list-group-item.increase .btn-star {
-  color: #aeaeae;
+  color: #fff;
 }

@@ -1,7 +1,31 @@
 .app-info {
   padding: 25px;
-  background-color: #3d5a80;
-  border-radius: 4px;
-  box-shadow: 15px 15px 30px rgba(0, 0, 0 0.15);
+  background-color: #1843c4;
+  border-radius: 28px;
+  box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.2), 5px 5px 10px rgba(0, 0, 0, 0.1);
+
   color: #fff;
+}
+
+.name-h {
+  font-family: "Verdana", sans-serif;
+  font-size: 32px;
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin: 20px 0;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #d4e0f5;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-family: "Verdana", sans-serif;
+  font-size: 25px;
+  color: #fff;
+  margin-bottom: 10px;
+  text-align: left;
+  padding: 10px;
 }
